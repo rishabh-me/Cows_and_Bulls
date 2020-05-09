@@ -11,6 +11,7 @@ It means that a certain digit guessed is present in the generated number at anot
 ##### bulls
 It means that the digit is guessed correctly and at the right position as well.
 
+
 The hints are given in terms of number of cows and bulls in each chance.
 
 ### Happy Playing!!
